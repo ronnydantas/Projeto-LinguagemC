@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1670203584 source:c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+	"clientes.c"
+	"estabelecimentos.c"
+	"funcionarios.c"
+	"relatorios.c"
+	"administrador.c"
+	"menuPrincipal.c"
+
+1670202573 source:c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202960 source:c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\estabelecimentos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202004 source:c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\funcionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202258 source:c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\relatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202501 source:c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\administrador.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202773 source:c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670203622 c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202960 c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\estabelecimentos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202004 c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\funcionarios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202258 c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\relatorios.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202501 c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\administrador.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
+1670202773 c:\users\ronny\documents\ads unip\2 semestre\pim\arquivos pim\pim\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<ctype.h>
+	<conio.h>
+
